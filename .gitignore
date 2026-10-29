@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+work/
+outputs/
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.json
+!config.example.json
+.env
+.env.*
+*.log
+desktop.ini
